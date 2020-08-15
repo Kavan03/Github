@@ -2,3 +2,4 @@ git init - to initialize git commands
 git status - to know status and changes within file
 git add . - to add the changes
 git commit -m "" -  to commit and write message
+git log - to know your commit
